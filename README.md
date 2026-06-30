@@ -2,7 +2,6 @@
 
 A full-stack Library Management System built with **MongoDB, Express.js, React, Node.js**.
 
-**Course:** Academic Project | SLIIT | 2025  
 **Stack:** MERN (MongoDB Atlas + Express + React 18 + Node.js)
 
 ---
